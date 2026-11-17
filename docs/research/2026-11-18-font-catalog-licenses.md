@@ -71,6 +71,7 @@ crates.io の ktav は、設定ファイルの形式「Ktav」の Rust の実装
 ## 問い合わせ
 
 2026-11-18 に、公式の資料で答えが見つからなかった二つの問いを、tett23 がメールで送った。
+問い合わせ先は、OFL を保守する SIL Global の Nicolas Spalinger（nicolas_spalinger@sil.org）と、GPL を管理する FSF のライセンスの窓口（licensing@gnu.org）である。
 2026-11-18 の時点で、どちらも返事はまだ無い。
 返事が来たら、この文書とロードマップの該当の項目を直す。
 
